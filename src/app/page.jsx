@@ -3,7 +3,7 @@ export const revalidate = 3600;
 
 export const metadata = {
   title: "Афганская Война",
-  description: "",
+  description: ".",
   keywords: "Афганская Война",
 };
 
